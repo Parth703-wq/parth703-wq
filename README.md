@@ -27,29 +27,53 @@ I focus on practical, production-oriented problem solving — not toy demos.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40"/>
 </div>
 
 <h2 align="left">Tools & Platforms</h2>
 
-<p align="left">
-• n8n<br>
-• LangChain<br>
-• Streamlit<br>
-• Jupyter Notebooks<br>
-• Google Colab
-</p>
+<div align="center">
+  <!-- n8n -->
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n"/>
+  <img width="20"/>
+
+  <!-- LangChain (text badge, no official icon exists) -->
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-blueviolet?style=for-the-badge" height="40"/>
+  <img width="20"/>
+
+  <!-- Streamlit -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/streamlit.svg" height="40" alt="streamlit"/>
+  <img width="20"/>
+
+ 
+
+  <!-- Google Colab -->
+ <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="Google Colab"/>
+
+</div>
 
 <h2 align="left">Currently Exploring</h2>
 
